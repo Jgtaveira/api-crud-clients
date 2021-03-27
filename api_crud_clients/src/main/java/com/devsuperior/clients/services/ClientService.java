@@ -73,6 +73,6 @@ public class ClientService {
 		entity.setCpf(dto.getCpf());
 		entity.setIncome(dto.getIncome());
 		entity.setBirthDate(dto.getBirthDate());
-		entity.setChildrens(dto.getChildrens());
+		entity.setChildren(dto.getchildren());
 	}
 }
